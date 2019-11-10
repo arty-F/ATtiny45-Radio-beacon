@@ -1,0 +1,3 @@
+VisualGDB/Debug/MorseCode.o: MorseCode.cpp MorseCode.h
+
+MorseCode.h:

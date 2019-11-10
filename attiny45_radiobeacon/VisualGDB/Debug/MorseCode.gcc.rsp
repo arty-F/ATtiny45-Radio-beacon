@@ -1,0 +1,1 @@
+-mmcu=attiny45 -ggdb -O0 -DDEBUG=1 -ffunction-sections -fdata-sections -fno-exceptions -fno-rtti   -c "MorseCode.cpp" -o "VisualGDB/Debug/MorseCode.o" -MD -MP -MF "VisualGDB/Debug/MorseCode.dep"

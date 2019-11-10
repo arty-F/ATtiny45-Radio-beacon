@@ -1,0 +1,1 @@
+-o ../VisualGDB/Debug/attiny45_radiobeacon -Wl,-gc-sections -mmcu=attiny45  -Wl,--start-group VisualGDB/Debug/MorseCode.o VisualGDB/Debug/Source.o -Wl,--end-group

@@ -1,0 +1,42 @@
+VisualGDB/Debug/Source.o: Source.cpp \
+ c:\users\frolo\source\repos\avr\include\avr\io.h \
+ c:\users\frolo\source\repos\avr\include\avr\sfr_defs.h \
+ c:\users\frolo\source\repos\avr\include\inttypes.h \
+ c:\users\frolo\source\repos\lib\gcc\avr\5.3.0\include\stdint.h \
+ c:\users\frolo\source\repos\avr\include\stdint.h \
+ c:\users\frolo\source\repos\avr\include\avr\iotn45.h \
+ c:\users\frolo\source\repos\avr\include\avr\iotnx5.h \
+ c:\users\frolo\source\repos\avr\include\avr\portpins.h \
+ c:\users\frolo\source\repos\avr\include\avr\common.h \
+ c:\users\frolo\source\repos\avr\include\avr\version.h \
+ c:\users\frolo\source\repos\avr\include\avr\fuse.h \
+ c:\users\frolo\source\repos\avr\include\avr\lock.h \
+ c:\users\frolo\source\repos\avr\include\avr\interrupt.h MorseCode.h
+
+c:\users\frolo\source\repos\avr\include\avr\io.h:
+
+c:\users\frolo\source\repos\avr\include\avr\sfr_defs.h:
+
+c:\users\frolo\source\repos\avr\include\inttypes.h:
+
+c:\users\frolo\source\repos\lib\gcc\avr\5.3.0\include\stdint.h:
+
+c:\users\frolo\source\repos\avr\include\stdint.h:
+
+c:\users\frolo\source\repos\avr\include\avr\iotn45.h:
+
+c:\users\frolo\source\repos\avr\include\avr\iotnx5.h:
+
+c:\users\frolo\source\repos\avr\include\avr\portpins.h:
+
+c:\users\frolo\source\repos\avr\include\avr\common.h:
+
+c:\users\frolo\source\repos\avr\include\avr\version.h:
+
+c:\users\frolo\source\repos\avr\include\avr\fuse.h:
+
+c:\users\frolo\source\repos\avr\include\avr\lock.h:
+
+c:\users\frolo\source\repos\avr\include\avr\interrupt.h:
+
+MorseCode.h:

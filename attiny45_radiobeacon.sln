@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "attiny45_radiobeacon", "attiny45_radiobeacon\attiny45_radiobeacon.vcxproj", "{AD9E4C4A-C2D3-4EC6-B6B0-112155DF5C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9E4C4A-C2D3-4EC6-B6B0-112155DF5C4D}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{AD9E4C4A-C2D3-4EC6-B6B0-112155DF5C4D}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{AD9E4C4A-C2D3-4EC6-B6B0-112155DF5C4D}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{AD9E4C4A-C2D3-4EC6-B6B0-112155DF5C4D}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65F5AEC-F642-4D2A-A043-D7260EACC95B}
+	EndGlobalSection
+EndGlobal
